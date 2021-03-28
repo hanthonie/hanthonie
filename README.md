@@ -12,7 +12,7 @@ I work with **Python** most of the time, and I am learning to build mobile
 applications using **Swift**. I also have strong experiences in **C/C++** and 
 am familiar with **Java**, **R**, **Golang**, **Lisp** and **Prolog**. 
 
-I apsire to utilize my skills in the field of AI/ML and Data Science. In the 
+I aspire to utilize my skills in the field of AI/ML and Data Science. In the 
 mean time, I will keep going on learning!
 
 Check out some of my projects below and be sure to hit me up on Discord at `han#3000` or email above!
