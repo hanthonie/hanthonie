@@ -1,4 +1,4 @@
-<h3>Hello 👋 Han is here!</h3>
+<h2>Hello 👋 Han is here!</h2>
 
 [![nguyenhan.me][1]](https://nguyenhan.me)
 [![Email][2]](mailto:nguyenhandev@gmail.com)
