@@ -9,7 +9,7 @@ I am an undergraduate student at the University of California, Davis (B.S. Compu
 Science), graduating in June, 2021.
 
 I work with **Python** most of the time, and I am learning to build mobile 
-applications using **Swift**. I also have strong experiences in **C/C++** and 
+applications using **Swift**. I also have strong experience in **C/C++** and 
 am familiar with **Java**, **R**, **Golang**, **Lisp** and **Prolog**. 
 
 I aspire to utilize my skills in the field of AI/ML and Data Science. In the 
